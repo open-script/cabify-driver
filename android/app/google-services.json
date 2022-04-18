@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "909400931692",
+    "firebase_url": "https://driver-app-clone-default-rtdb.firebaseio.com",
+    "project_id": "driver-app-clone",
+    "storage_bucket": "driver-app-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909400931692:android:da484ad10f4325364b8749",
+        "android_client_info": {
+          "package_name": "com.mca.quickride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909400931692-bjhg39ise6q7m3rbba34o2u5sqcv7lo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCffKf9WagzM6HfLZkon68TeRi0yhkX5II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909400931692-bjhg39ise6q7m3rbba34o2u5sqcv7lo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
